@@ -201,6 +201,7 @@
 |Lady Gaga|Poker Face|4|The Fame|2008|0:03:57|Lady Gaga||Lady Gaga - Poker Face.mp3|
 |Lady Gaga|Bad Romance|1|The Fame Monster|2009|0:04:55|Lady Gaga||Lady Gaga - Bad Romance.mp3|
 |Lady Gaga|Alejandro|2|The Fame Monster|2009|0:04:34|Lady Gaga||Lady Gaga - Alejandro.mp3|
+|Lady Gaga ft. Beyoncé|Telephone|7|The Fame Monster|2009|0:03:41|Lady Gaga||Lady Gaga ft. Beyoncé - Telephone.mp3|
 |Lady Gaga|Born This Way|2|Born This Way|2011|0:04:20|Lady Gaga||Lady Gaga - Born This Way.mp3|
 |Lady Gaga|Yoü And I|13|Born This Way|2011|0:05:07|Lady Gaga||Lady Gaga - Yoü And I.mp3|
 |Lady Gaga|The Edge Of Glory|14|Born This Way|2011|0:05:21|Lady Gaga||Lady Gaga - The Edge Of Glory.mp3|
