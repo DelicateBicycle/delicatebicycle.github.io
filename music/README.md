@@ -617,6 +617,7 @@
 |Train|Hey, Soul Sister|2|Save Me, San Francisco|2010|0:03:37|Train||Train - Hey, Soul Sister.mp3|
 |Train|Drive By|2|California 37|2012|0:03:16|Train||Train - Drive By.mp3|
 |Ellen McLain, Jonathan Coulton|Still Alive|12|Portal|2007|0:02:56|Valve|Jonathan Coulton|Valve - Still Alive.mp3|
+|Ellen McLain, Mike Morasky|Cara Mia Addio|52|Portal 2|2011|0:02:34|Valve|Mike Morasky|Ellen McLain - Cara Mia Addio.mp3|
 |Van Halen|Jump|2|1984|1984|0:04:02|Van Halen||Van Halen - Jump.mp3|
 |Bee Gees|Stayin' Alive|1|Saturday Night Fever|1979|0:04:45|Various Artists||Bee Gees - Stayin' Alive.mp3|
 |Whitney Houston|I Will Always Love You|1|The Bodyguard|1992|0:04:31|Various Artists||Whitney Houston - I Will Always Love You.mp3|
