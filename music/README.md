@@ -98,6 +98,7 @@
 |Eric Barone|Stardew Valley Overture|1|Stardew Valley|2016|0:02:27|ConcernedApe|Eric Barone|ConcernedApe - Stardew Valley Overture.mp3|
 |Daniel Powter|Bad Day|3|Daniel Powter|2005|0:03:54|Daniel Powter||Daniel Powter - Bad Day.mp3|
 |David Guetta ft. Sia|Titanium|12|Nothing but the Beat|2011|0:04:05|David Guetta||David Guetta ft. Sia - Titanium.mp3|
+|Aaliyah Rose, Kari Kimmel|Warriors|1|She-Ra and the Princesses of Power|2019|0:02:26|DreamWorks|Kari Kimmel|Aaliyah Rose - Warriors.mp3|
 |Earth, Wind & Fire|September|7|The Best Of Earth, Wind & Fire Vol. 1|1978|0:03:35|Earth, Wind & Fire||Earth, Wind & Fire - September.mp3|
 |Ed Sheeran|The A Team|1|+|2011|0:04:18|Ed Sheeran||Ed Sheeran - The A Team.mp3|
 |Ed Sheeran|Photograph|6|x|2014|0:04:19|Ed Sheeran||Ed Sheeran - Photograph.mp3|
